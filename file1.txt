@@ -3,3 +3,6 @@ commit2 master
 commit3 master
 commit4 master
 commit5 master
+b2 1
+b2 2
+b2 3
