@@ -1,5 +1,5 @@
 commit1 master
-commit2 master
+mistake 1
 commit3 master
-commit4 master
+mistake 2
 commit5 master
